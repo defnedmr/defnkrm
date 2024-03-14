@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @defnkrm
+- 👀 I’m interested in meeting with new people!
+- 🌱 I’m currently learning java and engineering!
+- 💞️ I’m looking to collaborate on any project i can, please
+  reach out to me so we can talk.
+- 📫 How to reach me from my linkedIn profile. 
+- ⚡ Fun fact: I never coded before I went to college ^-^
+
+<!---
+defnkrm/defnkrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
