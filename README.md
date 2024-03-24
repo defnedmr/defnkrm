@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java and engineering!
 - 💞️ I’m looking to collaborate on any project i can, please
   reach out to me so we can talk.
-- 📫 How to reach me from my linkedIn profile. 
-- ⚡ Fun fact: I never coded before I went to college ^-^
+- 📫 How to reach me: from my linkedIn profile. 
+- ⚡ Fun fact: I started learning english in second grade ^-^
 
 <!---
 defnkrm/defnkrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
