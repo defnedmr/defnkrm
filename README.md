@@ -5,6 +5,7 @@
   reach out to me so we can talk.
 - 📫 How to reach me: from my linkedIn profile. 
 
+![Defne's GitHub stats](https://github-readme-stats.vercel.app/api?username=defnkrm&theme=dracula&show_icons=true)
 
 <!---
 defnkrm/defnkrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
