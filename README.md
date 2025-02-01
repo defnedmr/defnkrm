@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @defnkrm
+- 👋 Hi, I’m @defnedmr
 - 👀 I’m interested in meeting with new people!
 - 🌱 I’m currently learning java and engineering!
 - 💞️ I’m looking to collaborate on any project i can, please
